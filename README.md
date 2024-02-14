@@ -1,2 +1,2 @@
-<p> Мой визитка</p>
+<p> Моя визитка</p>
 https://denistabats.github.io/portfolio/
